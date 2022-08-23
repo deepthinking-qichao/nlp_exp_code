@@ -96,5 +96,7 @@ for epoch in range(num_epochs):
     prediction_all = torch.cat(prediction_all, dim=0).numpy()
     print(classification_report(label_all, prediction_all))
 
+    print("yes")
+
 
 
