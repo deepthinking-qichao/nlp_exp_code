@@ -98,7 +98,9 @@ for epoch in range(num_epochs):
 
     print("yes")
 
-    print("no")
+    print("dev1_modify1")
+
+    print("dev1_modify2")
 
 
 
